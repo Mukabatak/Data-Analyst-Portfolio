@@ -1,4 +1,4 @@
-This Study Case is about PC Games Sales from kaggle.
-link : https://www.kaggle.com/datasets/khaiid/most-selling-pc-games .
-Question to be answered: which game is the oldest and the newest games in that dataset, which publisher published most of the games, which developer developed most of the games? which series is the most sales and which series is the most sales?
-I'm using Python Languange on Google Colab to preparing - cleaning data  and analyzing. For visualization, i've done it using Tableau. link: https://public.tableau.com/views/ReportofGamingIndustry/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+This Study Case is about PC Games Sales from kaggle. link : https://www.kaggle.com/datasets/khaiid/most-selling-pc-games .
+Questions to be answered: which game is the oldest and the newest games in that dataset, which publisher published most of the games, which developer developed most of the games? which series is the most sales and which series is the most sales?
+I'm using Python Languange on Google Colab to preparing - cleaning data and analyzing. For visualization, i've done it using Tableau. link: https://public.tableau.com/views/ReportofGamingIndustry/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link .
+There are some steps to understand these processes easier: first, you should open link kaggle to see raw data. second, check preparing and cleaning data file. third, see clean data file. fourth, check analyzing file. And last one, please check my visualization by public tableau link.
